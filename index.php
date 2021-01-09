@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Sendoso: The Leading Sending Platform</title>
+    <title>Sendoso: The Leading Sending Platform | Test</title>
     <?php include './head.php';?>
 </head>
 <body>
